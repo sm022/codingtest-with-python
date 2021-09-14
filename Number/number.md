@@ -1,4 +1,4 @@
-### 정수형 integer
+### 정수형_integer
 ```python
 a = 1000 # 양의 정수
 print(a)
@@ -15,7 +15,7 @@ print(a)
 -7
 0
 ```
-### 실수형 Real Number
+### 실수형_Real Number
 ```python
 # 양의 실수
 a = 157.93
