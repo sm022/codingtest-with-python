@@ -13,9 +13,6 @@
      <td rowspan="3">내용</td>
      <td>내용</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td rowspan="3">내용</td>
     <td>내용</td>
